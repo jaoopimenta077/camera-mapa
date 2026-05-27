@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "expo": "~56.0.4",
-    "expo-status-bar": "~56.0.4",
-    "react": "19.2.3",
-    "react-native": "0.85.3"
+    "expo": "~54.0.0",
+    "expo-image-picker": "~17.0.11",
+    "expo-location": "~19.0.8",
+    "expo-sqlite": "~16.0.10",
+    "expo-status-bar": "~3.0.9",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-maps": "1.20.1"
   },
   "scripts": {
     "start": "expo start",
